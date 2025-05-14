@@ -1,4 +1,8 @@
-### Domain-Driven Design
+### DDD
+This is a very simple project for exposing how is a Domain-Driven design project. The next lines explain what is DDD and why is so important to implement this type of 
+solution in your next projects.
+
+# Domain-Driven Design
 
 Domain-Driven Design (DDD) is a software development approach introduced by Eric Evans in his book "Domain-Driven Design: Tackling Complexity in the Heart of Software".
 
